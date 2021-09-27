@@ -101,8 +101,8 @@ C:\Users\mcnei\Desktop\ElevenFiftyProjects\100SD\RestaurantRater\RestaurantRater
 C:\Users\mcnei\Desktop\ElevenFiftyProjects\100SD\RestaurantRater\RestaurantRater\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\mcnei\Desktop\ElevenFiftyProjects\100SD\RestaurantRater\RestaurantRater\bin\Microsoft.Owin.Security.OAuth.xml
 C:\Users\mcnei\Desktop\ElevenFiftyProjects\100SD\RestaurantRater\RestaurantRater\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\mcnei\Desktop\ElevenFiftyProjects\100SD\RestaurantRater\RestaurantRater\obj\Debug\RestaurantRater.csproj.AssemblyReference.cache
 C:\Users\mcnei\Desktop\ElevenFiftyProjects\100SD\RestaurantRater\RestaurantRater\obj\Debug\RestaurantRater.csproj.CoreCompileInputs.cache
 C:\Users\mcnei\Desktop\ElevenFiftyProjects\100SD\RestaurantRater\RestaurantRater\obj\Debug\RestaurantRater.csproj.CopyComplete
 C:\Users\mcnei\Desktop\ElevenFiftyProjects\100SD\RestaurantRater\RestaurantRater\obj\Debug\RestaurantRater.dll
 C:\Users\mcnei\Desktop\ElevenFiftyProjects\100SD\RestaurantRater\RestaurantRater\obj\Debug\RestaurantRater.pdb
+C:\Users\mcnei\Desktop\ElevenFiftyProjects\100SD\RestaurantRater\RestaurantRater\obj\Debug\RestaurantRater.csproj.AssemblyReference.cache
